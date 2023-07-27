@@ -1,2 +1,2 @@
 # pandas-challenge
-Pandas Challenge for University of Pennsylvania's Data Science Bootcamp
+Pandas Challenge. Module 4 of Data Science Bootcamp.
